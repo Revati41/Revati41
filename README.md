@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Revati
+#👋 Hi, I’m Revati
 #👀 I’m interested in Software Development 
 #🌱 I’m currently learning Advanced Java programming
 #💞️ I’m looking to collaborate on innovative projects
